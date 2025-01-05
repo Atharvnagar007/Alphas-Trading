@@ -28,3 +28,6 @@ The true range indicator is taken as the greatest of the following: current high
 2. main_1_eth.py   ->   ETH : Double Timeframe Strategy Design
 3. main_2_btc.py   ->   BTC : Ensemble Strategy with Dynamic Stop Loss (Novel)
 4. main_2_eth.py   ->   ETH : SuperTrend Indicator Based Strategy (Optimized)
+
+##Results
+1. Obtained a Sharpe ratio of above 12 for ETH/USDT across double timeframes, with minimal drawdown and outperforming benchmark results in 13 out of 16 quarters.
